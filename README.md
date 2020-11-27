@@ -11,4 +11,10 @@ Primeiros conceitos de NodeJS</h1>
 
 ## 📚 O que eu aprendi?
 
-<p>Durante a realização desse desafio fui introduzido aos conceitos do Node e sua utilização sobre aos métodos HTTP. </p>
+<p>Durante a realização desse desafio fui introduzido aos conceitos do Node e sua utilização sobre aos métodos HTTP.
+<li>Conceitos do Node</li>
+<li>Introdução a API REST</li>
+<li>Criação de projeto node e configuração de integração com o nodemon.</li>
+<li>Métodos HTTP</li>
+<li>Query params, route params e request body</li>
+<li>Middlewares</li></p>
